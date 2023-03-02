@@ -1,2 +1,2 @@
-# M-quina-De-Venda-Exerc-cio
+# Maquina-De-Venda-Exercicio
 Exercício de Máquina de Venda
